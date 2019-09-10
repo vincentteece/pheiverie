@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mohphasoh.lakecorridorplan.org/sitemap.xml
